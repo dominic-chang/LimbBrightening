@@ -1,0 +1,5 @@
+papers/
+.vscode/
+.CondaPkg/
+Manifest.toml
+.DS_Store
