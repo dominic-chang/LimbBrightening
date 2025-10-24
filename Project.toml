@@ -1,0 +1,8 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Comrade = "99d987ce-9a1e-4df8-bc0b-1ea019aa547b"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Krang = "54806c32-d51a-438d-8447-e0041be2fbfb"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+UnitfulAstro = "6112ee07-acf9-5e0f-b108-d242c714bf9f"
